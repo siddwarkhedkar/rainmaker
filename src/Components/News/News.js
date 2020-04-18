@@ -10,7 +10,7 @@ class News extends Component {
     render() {
         return (
             <div className='news'>
-                News
+                <button className='button'> News </button>
             </div>
         )
     }

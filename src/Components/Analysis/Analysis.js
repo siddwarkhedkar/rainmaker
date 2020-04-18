@@ -10,7 +10,7 @@ class Analysis extends Component {
     render() {
         return (
             <div className='analysis'>
-                Analysis
+                <button className='button'> Analysis </button>
             </div>
         )
     }

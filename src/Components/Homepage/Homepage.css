@@ -1,0 +1,8 @@
+.homepage {
+  width: 50%;
+  float: left;
+  background-color: beige;
+  position: relative;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
