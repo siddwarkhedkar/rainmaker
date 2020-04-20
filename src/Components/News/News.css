@@ -1,4 +1,5 @@
-.news {
-    width: 50%;
-    float: left;
-  }
+.news{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto;
+}

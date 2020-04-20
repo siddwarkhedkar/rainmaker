@@ -2,16 +2,16 @@ import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import { Analysis, News, Homepage } from './Components'
 import './App.css';
+import { Button } from '@material-ui/core';
 
 function App() {
+
   return (
     <div className="rainmaker">
       <div className="button-nav">
-        <button className="button"> <Link to="home">Home</Link> </button>
+        <Button className="button"> <Link to="analysis">Analysis</Link> </Button>
 
-        <button className="button"> <Link to="analysis">Analysis</Link> </button>
-
-        <button className="button"> <Link to="news">News</Link> </button>
+        <Button className="button"> <Link to="news">News</Link> </Button>
       </div>
       <Routes>
         {/* localhost:3000/home */}
