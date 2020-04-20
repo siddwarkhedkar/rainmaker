@@ -14,7 +14,7 @@ function App() {
         <Button className="button"> <Link to="news">News</Link> </Button>
       </div>
       <Routes>
-        {/* localhost:3000/home */}
+        {/* localhost:3000/ */}
         <Route path="home" element={<Homepage />} />
         {/* localhost:3000/analysis */}
         <Route path="analysis" element={<Analysis />} />
