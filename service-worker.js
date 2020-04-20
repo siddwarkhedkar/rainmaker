@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rainmaker/precache-manifest.5224ec2b968b389a37922405eab42ce4.js"
+  "/rainmaker/precache-manifest.bbc2975105dbec663bebb2fa3e4410ff.js"
 );
 
 self.addEventListener('message', (event) => {
