@@ -1,0 +1,262 @@
+[
+        {
+            "source": {
+                "id": null,
+                "name": "Nytimes.com"
+            },
+            "author": "Denise Grady",
+            "title": "The Pandemic’s Hidden Victims: Sick or Dying, but Not From the Virus - The New York Times",
+            "description": "As the coronavirus overwhelms the health care system, people with other illnesses struggle to find treatment.",
+            "url": "https://www.nytimes.com/2020/04/20/health/treatment-delays-coronavirus.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/04/17/science/00VIRUS-FORGOTTEN1/00VIRUS-FORGOTTEN1-facebookJumbo.jpg",
+            "publishedAt": "2020-04-20T18:33:51Z",
+            "content": "Any other time, this would have been done the same day, he said.\r\nSome of his patients have had far more serious problems, he said.\r\nOne called him, saying she felt depressed and weak, and couldnt eat.\r\nThey were communicating via telemedicine, which Dr. Lowe… [+1221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nytimes.com"
+            },
+            "author": "Tara Parker-Pope",
+            "title": "Help! My Mask Fogs My Glasses - Latest News",
+            "description": "Health workers have a few tricks for solving this vexing problem, but it will take trial and error to find the one that works for you.",
+            "url": "https://www.nytimes.com/2020/04/20/well/live/help-my-mask-fogs-my-glasses.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/04/19/well/well-glasses/well-glasses-facebookJumbo.jpg",
+            "publishedAt": "2020-04-20T17:49:56Z",
+            "content": "Try soapy water. A British surgeon published a paper in 2011 showing that washing your glasses with soapy water and letting them air dry can help. Soap acts as a surfactant which stands for surface active agent and the soapy water leaves behind a thin film th… [+2145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mercurynews.com"
+            },
+            "author": "Lisa M. Krieger",
+            "title": "Feud over Stanford coronavirus study: ‘The authors owe us all an apology’ - The Mercury News",
+            "description": "Did the COVID-19 virus infect between 48,000 and 81,000 residents of Santa Clara County? Not so quick, say statisticians, citing what they call deep flaws in a Stanford study.",
+            "url": "https://www.mercurynews.com/feud-over-stanford-coronavirus-study-the-authors-owe-us-all-an-apology",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2020/04/SJM-ANTIBODY-0404-4.jpg?w=1024&h=686",
+            "publishedAt": "2020-04-20T16:42:27Z",
+            "content": "Did you miss a day in Statistics class? The COVID-19 pandemic is here to help.\r\nIn the wake of a startling Stanford report that suggests as many as 81,000 people could already have been infected with coronavirus in Santa Clara County, number nerds are taking … [+9504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wibw.com"
+            },
+            "author": "Marleah Campbell",
+            "title": "COVID-19 cluster confirmed at Emporia Tyson plant - WIBW",
+            "description": "Two dozen employees at the Tyson plant in Emporia have contracted the coronavirus, Lyon Co. health officer Renee Hively told 13 NEWS Monday.",
+            "url": "https://www.wibw.com/content/news/COVID-19-cluster-confirmed-at-Emporia-Tyson-plant-569787941.html",
+            "urlToImage": "https://media.graytvinc.com/images/MGN-TYSON-20191011.jpg",
+            "publishedAt": "2020-04-20T16:30:21Z",
+            "content": "EMPORIA, Kan. (WIBW) - Two dozen employees at the Tyson plant in Emporia have contracted the coronavirus, Lyon Co. health officer Renee Hively told 13 NEWS Monday.\r\n\"We started seeing one, we anticipated there'd be another one, and then when that number start… [+1849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Today.com"
+            },
+            "author": "Scott Stump, Vicky Nguyen",
+            "title": "Should you wipe down your food or packages? What the FDA is saying now - TODAY",
+            "description": "The FDA has reiterated guidelines that there is no evidence of COVID-19 being transmitted by food or food packaging.",
+            "url": "https://www.today.com/food/should-you-wipe-down-your-food-or-packages-what-fda-t179216",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_17/1560704/wiping-down-groceries-today-main-200420-v3_46839f37c7def5f4b3973e28d9c1769e.social_share_1200x630_center.jpg",
+            "publishedAt": "2020-04-20T15:38:19Z",
+            "content": "Amid the ongoing coronavirus outbreak, many consumers have become increasingly concerned about shopping for groceries in stores. If you've been nervous about getting the highly contagious virus from food or other packages that you don't wipe down, the Food an… [+3771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Why are there doubts over contact-tracing apps? - BBC News",
+            "description": "Experts raise concerns about Bluetooth technology and the risks of \"mission creep\".",
+            "url": "https://www.bbc.com/news/technology-52353720",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9034/production/_111861963_whatsubject.jpg",
+            "publishedAt": "2020-04-20T15:21:16Z",
+            "content": "Image copyrightGetty Images\r\nThere are growing tensions over the best approach to coronavirus contact-tracing apps and whether or not the technology can live up to its promise.\r\nSmartphone software is being developed to alert users when someone they were rece… [+8399 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "CDC’s failed coronavirus tests were tainted with coronavirus, feds confirm - Ars Technica",
+            "description": "A federal investigation found CDC researchers not following protocol.",
+            "url": "https://arstechnica.com/science/2020/04/cdcs-failed-coronavirus-tests-were-tainted-with-coronavirus-feds-confirm/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1207345885-760x380.jpg",
+            "publishedAt": "2020-04-20T15:16:00Z",
+            "content": "Enlarge/ Barricades stand outside the Centers for Disease Control and Prevention (CDC) headquarters in Atlanta, Georgia, on Saturday, March 14, 2020. As the novel coronavirus has spread in the US, the CDC is under increasing heat to defend a shaky rollout of … [+3120 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Coronavirus live updates: Here’s what to know in South Florida on April 20 - Miami Herald",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDIxMjk3MjEuaHRtbNIBQmh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2Nvcm9uYXZpcnVzL2FydGljbGUyNDIxMjk3MjEuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-04-20T15:12:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wsoctv.com"
+            },
+            "author": "WSOCTV.com News Staff",
+            "title": "Coronavirus local updates: Atrium Health to open more screening sites this week - WSOC Charlotte",
+            "description": "Channel 9 is committed to bringing you minute-by-minute updates on the coronavirus pandemic and how it is impacting our community.",
+            "url": "https://www.wsoctv.com/news/local/coronavirus-local-updates-sc-governor-expected-reopen-retail-stores-beaches-tuesday/DHOAH2WX7VEOZNH3XIKQIUHT64/",
+            "urlToImage": "https://www.wsoctv.com/resizer/w3mNLN6KWiPY1Vwfz9FEvzcfjSQ=/1200x628/d1hfln2sfez66z.cloudfront.net/04-20-2020/t_e0867ed4bfdc43afb4b3e16b8862cb70_name_t_b5b1d85392524ff3a053fd4f84d1c433_name_128280EF0BAE4A70B967C2DC89E399B8.jpg",
+            "publishedAt": "2020-04-20T14:36:48Z",
+            "content": "CHARLOTTE, N.C. — More than 2.4 million people worldwide -- including more than 760,000 people in the United States have been infected with the new coronavirus, and the number of deaths from the outbreak continues to rise. Officials are attempting to contain … [+17015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kcra.com"
+            },
+            "author": "KCRA Staff",
+            "title": "COVID-19 in California: The latest numbers and how to keep your family safe - KCRA Sacramento",
+            "description": "Here you can get the latest information on the coronavirus, or COVID-19, in California and resources to be prepared and keep your family safe.",
+            "url": "https://www.kcra.com/article/coronavirus-sacramento-california-latest-numbers-safety-info-april/32209058",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-california-1585590516.jpg?crop=1.00xw:0.991xh;0,0&resize=1200:*",
+            "publishedAt": "2020-04-20T14:29:00Z",
+            "content": "Here are 6 ways to protect yourself and family, according to the California Department of Public Health:\r\n Wash hands with soap and water for at least 20 seconds.\r\n Avoid touching eyes, nose or mouth with unwashed hands.\r\n Cover a cough or sneeze with your sl… [+407 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Barnini Chakraborty",
+            "title": "Drones from China company cause spying concerns, experts claim - Fox News",
+            "description": "Drones being used around the country to enforce coronavirus lockdowns were donated by a company with ties to the Chinese government, raising concerns that the nation many blame for allowing the virus to become a pandemic has sneaked a powerful espionage tool …",
+            "url": "https://www.foxnews.com/world/china-dji-spying-americans",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/DaytonaDrone_1.jpg",
+            "publishedAt": "2020-04-20T14:24:52Z",
+            "content": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here.\r\nDrones being used around the country to enforce coronavirus lockdowns were donated by a company with ties to the Chinese government, raising concerns that the nation… [+7801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": "Abby Haglage",
+            "title": "What are 'COVID toes' and why are dermatologists seeing an 'epidemic' of them in kids? - Yahoo Lifestyle",
+            "description": "Dermatologists nationwide are seeing a sudden influx of what some are calling \"COVID toes.\" Here's how the condition may be linked to the infec...",
+            "url": "https://www.yahoo.com/lifestyle/covid-toes-why-dermatologists-seeing-epidemic-kids-135948618.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LhZaExZRnzPmIeA7pjKMYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTQuNA--/https://s.yimg.com/uu/api/res/1.2/CatkqINU1XyKZjb.hDET8w--~B/aD00MDE2O3c9NjAxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-04/e7a44d80-80fc-11ea-bd77-08596f162aea",
+            "publishedAt": "2020-04-20T14:12:43Z",
+            "content": "Dermatologists nationwide are seeing a sudden influx of what some are calling \"COVID toes.\" Here's how the condition may be linked to the infection. (Photo: Getty Images)\r\nThe coronavirus has now infected more than 2.4 million people worldwide, causing a rang… [+5302 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus with no symptoms? Reports suggest many have unknowingly had virus - Fox News",
+            "description": "Could you have been infected with the novel coronavirus but not have known it, having reported no symptoms?",
+            "url": "https://www.foxnews.com/health/coronavirus-no-symptoms-reports-suggest-many-have-unknowingly-had-virus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/751b999f-9885-434e-9c35-3e8ed18d8316/4d8e5257-cce2-49d8-9b25-dc2c5e1ad7c7/1280x720/match/image.jpg",
+            "publishedAt": "2020-04-20T13:38:28Z",
+            "content": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here.\r\nCould you have been infected with the novel coronavirus but not have known it, having reported no symptoms?\r\nIt’s possible, as new reports suggest that many people h… [+4403 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "The Associated Press",
+            "title": "What you need to know today about the virus outbreak - Associated Press",
+            "description": "Here are some of AP’s top stories Monday on the world’s coronavirus pandemic. Follow APNews.com/VirusOutbreak for updates through the day and APNews.com/UnderstandingtheOutbreak for stories...",
+            "url": "https://apnews.com/d6a1d976b15441aa0bffc71df437cfff",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dd7a8e0652d340b29894b6a66974a0f1/3000.jpeg",
+            "publishedAt": "2020-04-20T13:33:32Z",
+            "content": "Here are some of APs top stories Monday on the worlds coronavirus pandemic. Follow APNews.com/VirusOutbreak for updates through the day and APNews.com/UnderstandingtheOutbreak for stories explaining some of its complexities.\r\nWHATS HAPPENING TODAY:\r\nBoeing an… [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pressdemocrat.com"
+            },
+            "author": null,
+            "title": "A look inside Sutter Santa Rosa hospital as it prepares for surge in coronavirus patients - Santa Rosa Press Democrat",
+            "description": "For the last two months, hospital administrators have been training staff and organizing resources to treat a surge in coronavirus patients.",
+            "url": "https://www.pressdemocrat.com/news/10899943-181/sutter-health-hospital-in-santa",
+            "urlToImage": "https://www.pressdemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=$7FFwu4spqCA2Q$syS7G_s$daE2N3K4ZzOUsqbU5sYsvd2_g_2ntORYW5VS3xaZWWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg",
+            "publishedAt": "2020-04-20T13:30:28Z",
+            "content": "The entire 24-bed outpatient care unit on the first floor of the hospital can be converted for treating COVID-19 patients needing intensive care.\r\nNormally, the unit would be used for pre- and post-surgery care when patients are undergoing elective medical pr… [+4009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicagotribune.com"
+            },
+            "author": "Morgan Greene",
+            "title": "Coronavirus cases in Illinois nursing homes: Families react as state lists COVID-19 infections - Chicago Tribune",
+            "description": "Ken Loredo didn’t learn about the two dozen COVID-19 cases at the long-term care facility where his mother lives until the Illinois Department of Public Health released the data for the first time over the weekend. “We hadn’t heard anything at all,” Loredo sa…",
+            "url": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-nursing-homes-relatives-20200420-cjsz5nkrfbbmtn2jzgctihupeq-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/01cK9NmuePGcF9iKLEKCSqE59fE=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GV2OLODKBNBGZB75JQLIYFJ3UQ.jpg",
+            "publishedAt": "2020-04-20T13:25:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kmbc.com"
+            },
+            "author": "Matt Evans",
+            "title": "People pack Lee's Summit company offering drive-thru COVID-19 swab, antibody tests - KMBC Kansas City",
+            "description": "Office now requiring appointments for testing",
+            "url": "https://www.kmbc.com/article/people-pack-lee-s-summit-company-offering-drive-thru-covid-19-swab-antibody-tests/32207866",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/75259d3e-f4d0-4402-a211-1bff57915941/75259d3e-f4d0-4402-a211-1bff57915941_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+            "publishedAt": "2020-04-20T13:12:02Z",
+            "content": "LEE'S SUMMIT, Mo. —Changes are coming to a coronavirus testing site after problems last week.\r\nPolice are now working with a Lee's Summit, Missouri, doctor's office to avoid terrible traffic jams.\r\nBlue Lotus Family Medicine began offering drive-thru COVID-19… [+1013 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Francesco Guarascio",
+            "title": "Remember the flu? Coronavirus sent it into hiding, but at a cost - Reuters",
+            "description": "At least one victim of the coronavirus pandemic will not be mourned.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-flu-idUSKBN2221PG",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200420&t=2&i=1515728613&w=1200&r=LYNXMPEG3J14Q",
+            "publishedAt": "2020-04-20T13:12:00Z",
+            "content": "BRUSSELS (Reuters) - At least one victim of the coronavirus pandemic will not be mourned. \r\nInfluenza, which each year kills hundreds of thousands of people worldwide, all but vanished in Europe last month as coronavirus lockdowns slowed transmission, accordi… [+3524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Today.com"
+            },
+            "author": "TODAY.com",
+            "title": "Can coronavirus live on your shoes, hair, newspaper or packages? - TODAY",
+            "description": "As our series Facts Over Fear continues, TODAY takes a closer look at where the coronavirus can live on everyday products. Is it really necessary to wipe down your food, mail and shoes? What about takeout containers? NBC investigative correspondent Vicky Nguy…",
+            "url": "https://www.today.com/video/can-coronavirus-live-on-your-shoes-hair-newspaper-or-packages-82285637884",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202004/tdy_health_vicky_facts_200420_1920x1080.social_share_1200x630_center.jpg",
+            "publishedAt": "2020-04-20T13:09:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox8.com"
+            },
+            "author": "CNNwire",
+            "title": "‘I’m lucky to be alive’: COVID-19 survivor says stop ‘crying, complaining’ about staying at home - WJW FOX 8 News Cleveland",
+            "description": "‘I’m lucky to be alive’: COVID-19 survivor says stop ‘crying, complaining’ about staying at home",
+            "url": "https://fox8.com/news/im-lucky-to-be-alive-covid-19-survivor-says-stop-crying-complaining-about-staying-at-home/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2020/04/covid19.jpg?w=576&h=324&crop=1&resize=1280,720",
+            "publishedAt": "2020-04-20T12:53:31Z",
+            "content": "MILWAUKEE, Wisc. — To walk in Leah Blomberg’s shoes, one would have to return to their own first steps. \r\n“That first time standing again, I felt like I weighed a thousand. It was, it was insane. Basically had to learn to walk again,” she said.”\r\nBlomberg, 35… [+1259 chars]"
+        }
+]
